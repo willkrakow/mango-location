@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  height: 100vh;
+}
+
+body {
+  background: linear-gradient(318.32deg, #87a6d1 0%, #7e93ad 55%, #a9ccf1 100%);
+}
